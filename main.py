@@ -8,4 +8,4 @@ app = FastAPI()
 
 @app.get("/")
 async def test():
-    return {"message": "Bienvenue"}
+    return {"message": "Merveille Bienvenue"}
